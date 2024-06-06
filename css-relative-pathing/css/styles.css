@@ -1,0 +1,10 @@
+    /* ============================================ */
+    
+    /* Create a selector to allow you to modify all the `<img>` tags at once */
+img {
+        /* Set the width of each image */
+        width: 150px;
+        /* Add some padding around each image */
+        padding: 10px;
+    }
+    /* ============================================ */
