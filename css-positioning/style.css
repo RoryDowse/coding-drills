@@ -43,6 +43,7 @@
   height: 100px;
   width: 100px;
   background-color: yellow;
+  /* The element is up moved vertically by 100% of its own height*/
   transform: translateY(-100%);
  
 }
