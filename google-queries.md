@@ -16,6 +16,7 @@
     - this offsets the element from the normal flow
 - display the nav list items inline
     - this turns the list items from vertical elements to horizonal
+- float the nav right
 - remove bullet points by 'list-style-type: none'
 - reset color of nav links
     - from hyperlink reference blue to desired color
